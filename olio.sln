@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "olio", "olio\olio.csproj", "{C25A5C8F-94A6-4A7C-B1E9-BBF30469648E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "olio2", "olio2\olio2.csproj", "{3F48AE89-5DC5-486D-B858-BFC003CC1C67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C25A5C8F-94A6-4A7C-B1E9-BBF30469648E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C25A5C8F-94A6-4A7C-B1E9-BBF30469648E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C25A5C8F-94A6-4A7C-B1E9-BBF30469648E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F48AE89-5DC5-486D-B858-BFC003CC1C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F48AE89-5DC5-486D-B858-BFC003CC1C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F48AE89-5DC5-486D-B858-BFC003CC1C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F48AE89-5DC5-486D-B858-BFC003CC1C67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
