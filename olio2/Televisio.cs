@@ -41,7 +41,7 @@ namespace CarApplication
         // method to display car data
         public void PrintData()
         {
-            Console.WriteLine("Washing machine data : ");
+            Console.WriteLine(" TV data : ");
             Console.WriteLine("- model : " + Model);
             Console.WriteLine("- TV's color : " + Color);
             Console.WriteLine("- Is it UHD TV : "+ Uhd);

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "olio", "olio\olio.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "olio2", "olio2\olio2.csproj", "{3F48AE89-5DC5-486D-B858-BFC003CC1C67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "olio3", "olio3\olio3.csproj", "{7E472824-5DAC-48D2-8B2E-D226551756B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3F48AE89-5DC5-486D-B858-BFC003CC1C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F48AE89-5DC5-486D-B858-BFC003CC1C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F48AE89-5DC5-486D-B858-BFC003CC1C67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E472824-5DAC-48D2-8B2E-D226551756B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E472824-5DAC-48D2-8B2E-D226551756B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E472824-5DAC-48D2-8B2E-D226551756B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E472824-5DAC-48D2-8B2E-D226551756B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
