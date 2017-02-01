@@ -10,7 +10,7 @@ namespace Coffee
             Coffeemaker maker = new Coffeemaker();
             maker.Model = "Wilfa";
             maker.Capacity = 0;
-            maker.Color = "Brushed Steel";
+            maker.Color = "Brushed Steel ";
             maker.OnOff = false;
 
 

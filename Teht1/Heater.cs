@@ -21,7 +21,7 @@ namespace Teht1
             Console.WriteLine("Harvia");
             Console.WriteLine("- Power : " + IsOn);
             Console.WriteLine("- Temperature : " + Temperature);
-            Console.WriteLine("- Humidity : " + Humidity);
+            Console.WriteLine("- Humidity :  " + Humidity);
         }
 
         public void Power(bool set)

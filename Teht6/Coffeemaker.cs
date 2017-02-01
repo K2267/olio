@@ -39,7 +39,7 @@ namespace Coffee
         // destructor
         ~Coffeemaker()
         {
-            Console.WriteLine("Object destroyed.");
+            Console.WriteLine("Object destroyed. ");
         }
 
     }

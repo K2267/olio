@@ -45,7 +45,7 @@ namespace CarApplication
         // destructor
         ~Pesukone()
         {
-            Console.WriteLine("Car object destroyed.");
+            Console.WriteLine("Car object destroyed. ");
         }
 
     }

@@ -22,7 +22,7 @@ namespace Teht1
             // Prints data
             Kiuas.PrintDetails();
             Kiuas.Heating();
-            // Prints changed data --> temperaature increased
+            // Prints changed data -- > temperaature increased
             Console.ReadLine();
             Kiuas.PrintDetails();
         }
