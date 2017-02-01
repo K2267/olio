@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "olio3", "olio3\olio3.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "olio4", "olio4\olio4.csproj", "{F617B204-8626-46E9-98E9-863AA108102C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht6", "Teht6\Teht6.csproj", "{DA99701D-FDB3-4D3F-9892-6E30D2D31EAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht1", "Teht1\Teht1.csproj", "{932005CE-8AC6-49EA-83D2-82C822ABB699}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{F617B204-8626-46E9-98E9-863AA108102C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F617B204-8626-46E9-98E9-863AA108102C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F617B204-8626-46E9-98E9-863AA108102C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA99701D-FDB3-4D3F-9892-6E30D2D31EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA99701D-FDB3-4D3F-9892-6E30D2D31EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA99701D-FDB3-4D3F-9892-6E30D2D31EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA99701D-FDB3-4D3F-9892-6E30D2D31EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{932005CE-8AC6-49EA-83D2-82C822ABB699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932005CE-8AC6-49EA-83D2-82C822ABB699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932005CE-8AC6-49EA-83D2-82C822ABB699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932005CE-8AC6-49EA-83D2-82C822ABB699}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
