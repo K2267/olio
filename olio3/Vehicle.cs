@@ -26,7 +26,7 @@ namespace CarApplication
             Console.WriteLine("Vehicle data : ");
             Console.WriteLine("- Vehicle model : " + Name);
             Console.WriteLine("- Vehicle's speed : " + Speed);
-            Console.WriteLine("- Tyre size : " + Tyres);
+            Console.WriteLine("- How many size : " + Tyres);
 
         }
 
