@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "olio", "olio\olio.csproj", "{C25A5C8F-94A6-4A7C-B1E9-BBF30469648E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht2", "olio\Teht2.csproj", "{C25A5C8F-94A6-4A7C-B1E9-BBF30469648E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "olio2", "olio2\olio2.csproj", "{3F48AE89-5DC5-486D-B858-BFC003CC1C67}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht3", "olio2\Teht3.csproj", "{3F48AE89-5DC5-486D-B858-BFC003CC1C67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "olio3", "olio3\olio3.csproj", "{7E472824-5DAC-48D2-8B2E-D226551756B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht4", "olio3\Teht4.csproj", "{7E472824-5DAC-48D2-8B2E-D226551756B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "olio4", "olio4\olio4.csproj", "{F617B204-8626-46E9-98E9-863AA108102C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht5", "olio4\Teht5.csproj", "{F617B204-8626-46E9-98E9-863AA108102C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht6", "Teht6\Teht6.csproj", "{DA99701D-FDB3-4D3F-9892-6E30D2D31EAD}"
 EndProject
